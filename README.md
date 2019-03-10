@@ -7,3 +7,7 @@ Climate change is the at the forefront of the challenges that facing humanity to
 Our team developed a platform for cities to monitor and keep track of their carbon emissions and make an effort to reduce them to create more environmentally friendly cities. This platform allows companies to track their goal for carbon emission and measure their progress of how much they are on track on achieving their goal. The platform allows the companies and cities to get detailed analysis of the areas that are contributing the most towards the carbon emissions and what can be done to effectively reduce them.
 
 We utilized **Python**, **Matplotlib**, **Pandas** for the data along with **Bootstrap** to create the framework for the platform and using **Github** to host that website.
+
+https://saadmateen.github.io/GreenCity/
+https://github.com/saadmateen/GreenCity
+https://github.com/saadmateen/CallofData
