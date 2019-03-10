@@ -9,5 +9,7 @@ Our team developed a platform for cities to monitor and keep track of their carb
 We utilized **Python**, **Matplotlib**, **Pandas** for the data along with **Bootstrap** to create the framework for the platform and using **Github** to host that website.
 
 https://saadmateen.github.io/GreenCity/
+
 https://github.com/saadmateen/GreenCity
+
 https://github.com/saadmateen/CallofData
