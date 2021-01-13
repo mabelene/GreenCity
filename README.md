@@ -13,3 +13,8 @@ https://saadmateen.github.io/GreenCity/
 https://github.com/saadmateen/GreenCity
 
 https://github.com/saadmateen/CallofData
+
+To learn more, click on our Devpost!
+https://devpost.com/software/green-city-wps1cb
+
+Made with <3 by: saadmateen, mabelene, srikoushik, caroline
